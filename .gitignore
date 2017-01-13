@@ -1,0 +1,7 @@
+# exclude data 
+*.dat
+#exclude result from data pro
+results/
+# Exlude temporary editor files
+*.swp
+
